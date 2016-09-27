@@ -5,7 +5,7 @@ date:   2016-09-26 21:00:00 -0700
 categories: machine learning, deep learning
 ---
 
-Over the weekend of September 24th and 25th, some of the top (human) experts in Deep Learning got together at Stanford and gave a ["Deep Learning School"](http://www.bayareadlschool.org). The content was a mix of introductions to areas of the subject, some tutorials, and also some in-depth discussions with some of the very latest findings.
+Over the weekend of September 24th and 25th, some of the top (human) experts in Deep Learning got together at Stanford and presented ["Deep Learning School"](http://www.bayareadlschool.org). The content was a mix of introductions to areas of the subject, some tutorials, and also some in-depth discussions with some of the very latest findings.
 
 Don't worry if you couldn't make it.  Stanford did an excellent job of providing great quality [videos](#videos) of the event online.
 
