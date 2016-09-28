@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Learning School, 2016"
 date:   2016-09-26 21:00:00 -0700
-categories: machine learning, deep learning
+categories: machine-learning
 ---
 
 Over the weekend of September 24th and 25th, some of the top (human) experts in Deep Learning got together at Stanford and presented ["Deep Learning School"](http://www.bayareadlschool.org). The content was a mix of introductions to areas of the subject, some tutorials, and also some in-depth discussions with some of the very latest findings.
@@ -11,7 +11,7 @@ Don't worry if you couldn't make it.  Stanford did an excellent job of providing
 
 Some of my favourite parts included Ruslan showing a [slide of machine and human drawn sanskrit characters](https://youtu.be/eyovmAtoUx0?t=8h19m0s). It was totally impossible to tell which was which. Richard gave a great introduction to natural language processing, cumulating in some amazing work, showing [machine responses to questions about an image](https://youtu.be/eyovmAtoUx0?t=5h8m39s), and Adrej, who included a discussion about hardware options with a slide showing a hard disk drive with the caption; "Moving parts, lol". I'm totally stealing that slide, next time I have to justify hardware costs!
 
-![Moving parts, lol](/img/disk_drive.jpg)
+![Moving parts, lol](/assets/deeplearningschool/disk_drive.jpg)
 
 There's far too much to go over in detail, and any summary wouldn't do the subject justice. If you're still looking for motivation, Andrew Ng has some [advice for building a career in machine learning](https://youtu.be/eyovmAtoUx0?t=10h22m56s). I'd recommend, going through the [schedule](http://www.bayareadlschool.org/schedule) and diving right in to the [videos](#videos).
 
