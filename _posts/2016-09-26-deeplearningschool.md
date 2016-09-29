@@ -9,7 +9,7 @@ Over the weekend of September 24th and 25th, some of the top (human) experts in 
 
 Don't worry if you couldn't make it.  Stanford did an excellent job of providing great quality [videos](#videos) of the event online.
 
-Some of my favourite parts included Ruslan showing a [slide of machine and human drawn sanskrit characters](https://youtu.be/eyovmAtoUx0?t=8h19m0s). It was totally impossible to tell which was which. Richard gave a great introduction to natural language processing, cumulating in some amazing work, showing [machine responses to questions about an image](https://youtu.be/eyovmAtoUx0?t=5h8m39s), and Adrej, who included a discussion about hardware options with a slide showing a hard disk drive with the caption; "Moving parts, lol". I'm totally stealing that slide, next time I have to justify hardware costs!
+Some of my favourite parts included Ruslan showing a [slide of machine and human drawn sanskrit characters](https://youtu.be/eyovmAtoUx0?t=8h19m0s). It was totally impossible to tell which was which. Richard gave a great introduction to natural language processing, cumulating in some amazing work, showing [machine responses to questions about an image](https://youtu.be/eyovmAtoUx0?t=5h8m39s), and Andrej, who included a discussion about hardware options with a slide showing a hard disk drive with the caption; "Moving parts, lol". I'm totally stealing that slide, next time I have to justify hardware costs!
 
 ![Moving parts, lol](/assets/deeplearningschool/disk_drive.jpg)
 
@@ -60,7 +60,7 @@ Here are the speakers and committee members.
 * Recent interesting publication: [Neural Language Correction with Character-Based Attention](http://arxiv.org/pdf/1603.09727v1)
 * Andrew also gives a [machine learning course on Coursera](https://www.coursera.org/learn/machine-learning)
 
-#### [Adrej Karpathy](http://karpathy.github.io/)
+#### [Andrej Karpathy](http://karpathy.github.io/)
 * Computer Science PhD student at Stanford
 * Speaking on Deep Learning for Computer Vision
 * Created [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/), which is a great tool to search Machine Learning and Deep Learning papers on [arxiv.org](http://arxiv.org/)
