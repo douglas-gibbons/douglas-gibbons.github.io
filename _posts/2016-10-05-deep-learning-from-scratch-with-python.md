@@ -478,4 +478,5 @@ For real world applications it may be prudent to use existing libraries which;
 
 ## The Code
 
-The complete code and description can be downloaded in the form of a [Jupyter notebook](https://nbviewer.jupyter.org/github/douglas-gibbons/douglas-gibbons.github.io/tree/master/notebooks/Deep%20Learning%20from%20Scratch%20With%20Python.ipynb)
+The complete code and description can be downloaded in the form of a [Jupyter notebook](https://nbviewer.jupyter.org/github/douglas-gibbons/douglas-gibbons.github.io/tree/master/notebooks/Deep%20Learning%20from%20Scratch%20With%20Python.ipynb), or you can download the [Python code](https://github.com/douglas-gibbons/douglas-gibbons.github.io/blob/master/notebooks/Deep-Learning-from-Scratch-With-Python.py)
+
