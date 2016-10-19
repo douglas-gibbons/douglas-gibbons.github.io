@@ -47,7 +47,7 @@ Here are some examples of data which might be suitable:
 If a skilled individual can make accurate decisions, based on a set of data, then a computer should be able to match or better the accuracy of those decisions, based on the same set of data.
 
 
-## How can machine learning benefit us?
+## How can machine learning benefit me?
 
 > "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail." - Abraham Maslow
 
