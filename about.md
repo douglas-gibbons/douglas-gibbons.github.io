@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-"Webmaster", "DevOps", "Systems Engineer". These are just some of the job titles for engineers that keep the web running.  I am just one of those engineers.
+Douglas Gibbons (Doug) is a technology consultant specialising in machine learning and large scale cloud computing.
 
-In the past, I've also run teams of like-minded engineers and written software.  I also have an interest in Machine Learning and Deep Learning, as these technologies may well help to form our future for the better.
+With a background in software automation, Doug has been helping companies deliver projects for over 15 years. He his now based in Silicon Valley and is working to improve the adoption of machine learning within industry.
