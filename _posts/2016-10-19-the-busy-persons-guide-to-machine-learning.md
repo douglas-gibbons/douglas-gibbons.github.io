@@ -53,4 +53,4 @@ If a skilled individual can make accurate decisions, based on a set of data, the
 
 Machine learning can be a bit like that. However, there are some tasks it excels at, some it will never be good at, and others where the technology is just not ready yet.
 
-If you'd like to know more, feel free to [contact me](https://www.zenly.co.uk/contact/).
+If you'd like to know more, feel free to [contact me](https://www.zenly.co.uk/contact/) at my consultancy company.
