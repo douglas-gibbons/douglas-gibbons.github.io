@@ -70,9 +70,6 @@ a.T
 {% endhighlight %}
 
 
-
-
-
     array([[ 0,  3,  6,  9],
            [ 1,  4,  7, 10],
            [ 2,  5,  8, 11]])
@@ -113,6 +110,34 @@ Element wise multiplication also works for scalers and matrices:
  14 & 16 & 18 &#92;&#92;
 \end{bmatrix}
 \end{equation}
+
+
+Here's an example in Python. First create an array:
+
+{% highlight python %}
+a = np.array(range(9)).reshape(3,3)
+a
+{% endhighlight %}
+
+```
+array([[0, 1, 2],
+       [3, 4, 5],
+       [6, 7, 8]])
+
+```
+
+Then multiply it by two:
+
+{% highlight python %}
+a * 2
+{% endhighlight %}
+
+```
+array([[ 0,  2,  4],
+       [ 6,  8, 10],
+       [12, 14, 16]])
+```
+
 
 ## Dot Product
 The matrix __dot product__ can be thought of as a system for calculating distances of vectors, but we're going to use it for more general summations.
