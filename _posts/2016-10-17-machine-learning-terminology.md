@@ -7,6 +7,9 @@ categories: machine-learning
 
 An incomplete summary of some of the many terms used in the trade.
 
+### Convolutional Neural Networks (CNNs / ConvNets)
+
+CNNs are neural networks, where the design of the various layers of the network are based around the desire to gain insight from the structure of the incoming data. CNNs are used primarily for images, allowing the image to be split up, so that the system can more easily recognise patterns in the sections.
 
 ### Deep Learning
 
