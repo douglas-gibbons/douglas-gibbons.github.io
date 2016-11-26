@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AWS Machine Learning"
-date:   2016-11-05 13:00:00 -0700
+date:   2016-11-20 14:50:00 -0700
 categories: machine-learning
 ---
 
@@ -33,12 +33,12 @@ The files are:
 
 ### Pre-requisites
 
-The code uses python v3, and will need the following libraries:
+The code uses Python v3, and will need the following libraries:
 
 * boto3
 * numpy
 
-You'll also need full access to an AWS account and some access keys
+You'll also need full access to an AWS account, including access keys
 
 It was tested on a Ubuntu 16.04 machine, but it should run on most systems with Python 3.
 
@@ -46,18 +46,18 @@ It was tested on a Ubuntu 16.04 machine, but it should run on most systems with 
 
 Clone the code from [github.com/douglas-gibbons/aws-ml-mnist](https://github.com/douglas-gibbons/aws-ml-mnist)
 
-Create and AWS S3 bucket and set up a bucket policy. The policy should allow access to AWS ML components and to the scripts to upload and download files. An example policy (which will need editing) can be found in the code directory, and is called "bucket_policy.json".
+Create an AWS S3 bucket and set up a bucket policy. The policy should allow access to AWS ML components and to the scripts to upload and download files. An example policy (which will need editing) can be found in the code directory, and is called "bucket_policy.json".
 
 Create directories "data" and "output" inside the bucket
 
 Set up ~/.aws/credentials with credentials and a region suitable for ML. For example:
 
-```
-[default]
-aws_access_key_id = YOUR_KEY_ID
-aws_secret_access_key = YOUR_SECRET_ACCESS_KEY
-region=us-east-1
-```
+
+    [default]
+    aws_access_key_id = YOUR_KEY_ID
+    aws_secret_access_key = YOUR_SECRET_ACCESS_KEY
+    region=us-east-1
+    
 
 Edit ```config.py``` and change the data_bucket name and check the bucket region is correct.
 
@@ -79,23 +79,22 @@ The output should show the accuracy of the machine learning predictions to be ab
 
 For the MNIST trial:
 
-Cost: About $2.80
-Time: About 3 hours to run
-Easy of use: Very
-Accuracy: 90%
+* Cost: About $2.80 for AWS ML charges
+* Time: About 3 hours to run
+* Easy of use: Very
+* Accuracy: 91%  (that puts it in the realm of a decent 1 layer neural network)
 
 ### Disadvantages
 
-The AWS ML system does not offer much in the way of tweaking the machine learning. Don't expect the level of recognition performance you might get with custom convolutional neural networks. However, for most tasks it should perform well enough.
+The AWS ML system does not offer much in the way of tweaking the machine learning structure. Don't expect the level of recognition performance you might get with custom convolutional neural networks, or even quite simple deep learning systems.
 
 ### Advantages
 
 AWS ML integrates well with other AWS products. It can take its data from Redshift, RDS, S3 or EMR, as well as real time inputs from Kinesis and of course Lambda and EC2 instances.  If you're an AWS shop and want to integrate machine learning into an existing structure, this is certainly worth a try.
 
-The simplicity of the product makes it easy to get started and quick to get results.
+The simplicity of the product also makes it easy to get started and quick to get results.
 
 
 ## In Conclusion
 
-AWS ML provides a very simple and easy-to-use interface into the world of machine learning. It also plays well with all those other AWS products that we've grown to depend on. It's out-of-the box performance is enough to satisfy most common uses, but it is limited in terms of tuning more complex problems.
-
+AWS ML provides a very simple and easy-to-use interface into the world of machine learning. It also plays well with all those other AWS products that we've grown to depend on. It's out-of-the box performance is enough to satisfy most common uses. However, if you're looking to solve complex problems that require deep learning, this is not the tool for you.
