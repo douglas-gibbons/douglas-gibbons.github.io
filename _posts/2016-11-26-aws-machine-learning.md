@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AWS Machine Learning"
-date:   2016-11-20 14:50:00 -0700
+date:   2016-11-26 14:50:00 -0700
 categories: machine-learning
 ---
 
