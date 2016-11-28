@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AWS Machine Learning"
-date:   2016-11-26 14:50:00 -0700
+date:   2016-11-20 14:50:00 -0700
 categories: machine-learning
 ---
 
@@ -73,7 +73,7 @@ The various python files are designed to run in order:
 1. Wait for the predictions to complete (again, check the [web interface](https://console.aws.amazon.com/machinelearning/home?region=us-east-1#/)).
 1. Download the prediction output and evaluate the predictions ```./aws_check_results.py```
 
-The output should show the accuracy of the machine learning predictions to be about 91%.
+The output should show the accuracy of the machine learning predictions to be about 91.6%.
 
 ## The Results
 
@@ -82,7 +82,7 @@ For the MNIST trial:
 * Cost: About $2.80 for AWS ML charges
 * Time: About 3 hours to run
 * Easy of use: Very
-* Accuracy: 91%  (that puts it in the realm of a decent 1 layer neural network)
+* Accuracy: 91.6%  (that puts it in the realm of a decent 1 layer neural network)
 
 ### Disadvantages
 
