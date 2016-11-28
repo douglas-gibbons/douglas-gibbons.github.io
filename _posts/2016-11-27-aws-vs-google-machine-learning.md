@@ -15,7 +15,7 @@ Now we have a direct comparison.
 
 ## Running the Google Code
 
-Google's machine learning offering requires the user to be proficient in [TensorFlow](https://www.tensorflow.org/). Their system expects the code to be written a certain way too, so it's not always as simple as taking existing TensorFlow code and "putting it in the cloud".  The TensorFlow library for Python is excellent, but it's also complicated. The library runs C++ behind the scenes (for very good efficiency reasons). It requires the user to first define a data flow graph of all the steps to run, and only when that map is defined are the variable place-holders filled with data, so the map can be run.  This makes for some "interesting" and very un-pythonic code.
+Google's machine learning offering the user to be proficient in [TensorFlow](https://www.tensorflow.org/). Their system expects the code to be written a certain way too, so it's not always as simple as taking existing TensorFlow code and "putting it in the cloud". The TensorFlow library runs C++ behind the scenes. It requires the user to first define a data flow graph of all the steps to run, and only when that map is defined are the variable place-holders filled with data, so the map can be run.  This makes for some "interesting" and very un-pythonic code.
 
 I could go on criticizing TensorFlow, believe me. I've only just got started. The problem is though, that it's not just good, it's excellent. Sure, it'll give you a few evenings of swearing at the computer, but once you get the concept, there's nothing quite like it for building complex models. And it's fast. Really fast!  This goes some way to explaining the results below.
 
@@ -36,9 +36,9 @@ I could go on criticizing TensorFlow, believe me. I've only just got started. Th
 * __Easy of use__ Difficult
 * __Accuracy__ 91.9%
 
-## Why was the test unfair?
+## Was this a fair test?
 
-We are not quite comparing apples with apples here. The Amazon test relied on my code, which I knocked up in half a day, with very little tuning. However, the Google test relied on Google's own code, with a deep neural network, tuned for the MNIST problem. Google was going to win here!
+We are not quite comparing apples with apples here. The Amazon test relied on my code, which I knocked up in half a day with very little tuning. However, the Google test relied on Google's own code, with a deep neural network, tuned for the MNIST problem. Google was going to win here!
 
 It should also be noted that the TensorFlow code could have been optimized further to produce far greater accuracy on the dataset. Instead of tuning the code further, I tried to keep the accuracy of both tests the same, so I could more directly compare run times and costs.
 
