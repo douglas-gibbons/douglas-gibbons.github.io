@@ -120,9 +120,13 @@
                 text-decoration: none;
                 color:$brand-color;
             }
+            img {
+              vertical-align: text-bottom;
+            }
         }
     }
 }
+
 
 .post{
     .card-content{
