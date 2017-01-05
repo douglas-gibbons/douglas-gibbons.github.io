@@ -3,10 +3,9 @@ layout: default
 ---
 
 <div class="home">
- <div class="top card">
+  <div class="top card">
     <p class="description">{{ site.description }}</p>
     <a href="about" class="btn">Read More</a>
-    
   </div>
   <div class="posts card">
       <div class="card-content white-text">
@@ -20,13 +19,5 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-
-      <p class="rss-subscribe">
-        subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-        |
-        <a href="http://twitter.com/home/?status=@{{ site.twitter_username }}">tweet <img src="/assets/twitter-icon-small.png" /> me</a>
-      </p>
-      </div>
-   </div>
-
+  </div>
 </div>
