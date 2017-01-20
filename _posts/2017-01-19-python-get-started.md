@@ -5,7 +5,7 @@ date:   2017-01-19 14:00:00 -0700
 categories: python
 ---
 
-_Here are some course notes for getting started with Python_
+Here are some course notes for getting started with Python. In this article, we'll open a terminal window and run some Python commands, just to prove that we can!
 
 --------------
 
