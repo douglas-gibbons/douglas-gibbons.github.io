@@ -78,7 +78,7 @@ Below shows an example of this, where I create a directory called ```test```, sh
 
 
 
-
+Thanks for reading. In my next article in the series, we'll use what we've learned to build a rocket capable of reaching Mars, just using freely available Python libraries.
 
 
 
