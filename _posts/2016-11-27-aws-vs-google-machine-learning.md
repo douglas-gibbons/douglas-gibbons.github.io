@@ -9,7 +9,7 @@ Previously I [reviewed Amazon's Machine Learning platform](http://www.douglas-gi
 
 Google also offers [machine learning for their cloud platform](https://cloud.google.com/products/machine-learning/). Their [quickstart tutorial](https://cloud.google.com/ml/docs/quickstarts/) focuses on the MNIST dataset like my Amazon review, so it's easy enough to run their code and directly compare the AWS and Google machine learning offerings.
 
-I picked up their tutorial, and tweaked the parameters slightly, so that the results would reach the same accuracy as my test of the AWS platform.  This was achieved simply by increasing the max_steps on [their example code](https://github.com/GoogleCloudPlatform/cloudml-samples/blob/master/mnist/trainable/trainer/task.py) to 4000.
+I picked up their tutorial, and tweaked the parameters slightly, so that the results would reach the same accuracy as my test of the AWS platform.  This was achieved simply by increasing the max_steps on to 4000. The [code is here](https://github.com/douglas-gibbons/gcloud_ml_mnist).
 
 Now we have a direct comparison.
 
