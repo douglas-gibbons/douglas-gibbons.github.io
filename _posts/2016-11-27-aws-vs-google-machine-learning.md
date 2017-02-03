@@ -15,7 +15,7 @@ Now we have a direct comparison.
 
 ## Running the Google Code
 
-Google's machine learning offering the user to be proficient in [TensorFlow](https://www.tensorflow.org/). Their system expects the code to be written a certain way too, so it's not always as simple as taking existing TensorFlow code and "putting it in the cloud". The TensorFlow library runs C++ behind the scenes. It requires the user to first define a data flow graph of all the steps to run, and only when that map is defined are the variable place-holders filled with data, so the map can be run.  This makes for some "interesting" and very un-pythonic code.
+Google's machine learning offering requires the user to be proficient in [TensorFlow](https://www.tensorflow.org/). Their system expects the code to be written a certain way too, so it's not always as simple as taking existing TensorFlow code and "putting it in the cloud". The TensorFlow library runs C++ behind the scenes. It requires the user to first define a data flow graph of all the steps to run, and only when that map is defined are the variable place-holders filled with data, so the map can be run.  This makes for some "interesting" and very un-pythonic code.
 
 I could go on criticizing TensorFlow, believe me. I've only just got started. The problem is though, that it's not just good, it's excellent. Sure, it'll give you a few evenings of swearing at the computer, but once you get the concept, there's nothing quite like it for building complex models. And it's fast. Really fast!  This goes some way to explaining the results below.
 
@@ -31,7 +31,7 @@ I could go on criticizing TensorFlow, believe me. I've only just got started. Th
 
 ## Google Cloud ML Platform
 
-* __Cost__ $0.10 (USD)
+* __Cost__ about $0.10 (USD)
 * __Computation Time__ 7 minutes, 20 seconds
 * __Easy of use__ Difficult
 * __Accuracy__ 91.9%
