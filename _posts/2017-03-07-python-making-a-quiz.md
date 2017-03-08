@@ -47,7 +47,7 @@ Can you improve this code?  Things to try:
 * Add some new questions
 * Use ```if``` to see if the user was correct
 * Add a variable to keep score and use it to tell the user how well they did
-* When checking answers, it should not matter if the user users lower case or upper case letters. How could you code for this?
+* When checking answers, it should not matter if the user uses lower case or upper case letters. How could you code for this?
 
 
 
