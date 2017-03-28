@@ -55,7 +55,7 @@ for q in lines:
 ### quiz.csv
 
 {% highlight csv %}
-"What is the capital of Norway" ,"Oslo"
+"What is the capital of Norway","Oslo"
 "Entomology is the science that studies","Insects"
 "What is 9 x 7","63"
 {% endhighlight %}
