@@ -2,7 +2,7 @@
 layout: post
 title:  "Summations, Matrices and Python"
 date:   2016-10-01 13:00:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 Matrix mathematics is used to great affect in evaluating machine learning algorithms.  Some of the built-in libraries in many programming languages automatically run such calculations over multiple CPUs or GPUs to reduce the computation time.

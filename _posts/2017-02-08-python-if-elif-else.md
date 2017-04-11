@@ -2,7 +2,7 @@
 layout: post
 title:  "Python if-elif-else"
 date:   2017-02-08 15:00:00 -0700
-categories: python
+categories: ["Python Course"]
 ---
 
 Here are some course notes for getting started with Python. In this article,

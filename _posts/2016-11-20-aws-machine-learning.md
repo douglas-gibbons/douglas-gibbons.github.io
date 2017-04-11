@@ -2,7 +2,7 @@
 layout: post
 title:  "AWS Machine Learning"
 date:   2016-11-20 14:50:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 Amazon launched their machine learning platform in April 2015 - [Amazon Machine Learning](https://aws.amazon.com/machine-learning/).  In typical AWS style it provides a point-and-click web interface as well as an API, which has been integrated into several libraries already, including Python's [boto3](https://boto3.readthedocs.io/en/latest/reference/services/machinelearning.html).

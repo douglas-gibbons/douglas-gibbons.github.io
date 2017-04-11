@@ -2,7 +2,7 @@
 layout: post
 title:  "Python - Introducing lists and for loops"
 date:   2017-02-22 19:00:00 -0700
-categories: python
+categories: ["Python Course"]
 ---
 
 Here are some course notes for getting started with Python. In this article,

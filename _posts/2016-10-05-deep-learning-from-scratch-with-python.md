@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Learning from Scratch With Python"
 date:   2016-10-05 12:00:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 This post describes the steps involved in deep learning, with a practical example, written in Python.  The code creates a multi layer neural network with logistic regression. This system will be trained with a set of images of handwritten digits and then be tested with a different set of images to see if it can identify the digits.

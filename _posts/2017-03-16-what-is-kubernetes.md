@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Kubernetes?"
 date:   2017-03-16 15:00:00 -0700
-categories: main
+categories: [ "DevOps" ]
 ---
 
 _From the [kubernetes website](https://kubernetes.io/); "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications."_

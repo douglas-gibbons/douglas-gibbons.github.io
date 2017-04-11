@@ -2,7 +2,7 @@
 layout: post
 title:  "Radar, LIDAR and Cameras for Automotive Applications"
 date:   2016-10-28 13:00:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 Here's a quick breakdown of the types of sensors used for feature detection in automotive applications.

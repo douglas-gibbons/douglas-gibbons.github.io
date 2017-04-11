@@ -2,7 +2,7 @@
 layout: post
 title:  "The Busy Person's Guide To Machine Learning"
 date:   2016-10-19 11:00:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 ## What is machine learning?

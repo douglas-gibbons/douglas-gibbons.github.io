@@ -2,7 +2,7 @@
 layout: post
 title:  "Python - Writing code for a quiz - 2"
 date:   2017-03-13 19:00:00 -0700
-categories: python
+categories: ["Python Course"]
 ---
 
 Here are some course notes for getting started with Python. In this article, I'll

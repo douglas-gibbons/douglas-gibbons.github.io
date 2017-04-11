@@ -2,7 +2,7 @@
 layout: post
 title:  "True and False with Python"
 date:   2017-02-03 10:00:00 -0700
-categories: python
+categories: ["Python Course"]
 ---
 
 Here are some course notes for getting started with Python. In this article, we'll look at "True", "False", variables, strings, and a quick glimpse at making decisions.

@@ -2,7 +2,7 @@
 layout: post
 title:  "AWS vs Google Machine Learning"
 date:   2016-11-27 10:00:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 Previously I [reviewed Amazon's Machine Learning platform](http://www.douglas-gibbons.com/machine-learning/2016/11/26/aws-machine-learning.html) by testing it against the [MNIST Database](http://yann.lecun.com/exdb/mnist/).

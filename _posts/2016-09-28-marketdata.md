@@ -2,7 +2,7 @@
 layout: post
 title:  "Market Data Categorization with Machine Learning"
 date:   2016-09-28 11:00:00 -0700
-categories: machine-learning
+categories: ["Machine Learning"]
 ---
 
 _The use of machine learning in financial trading is gaining traction. One problem
