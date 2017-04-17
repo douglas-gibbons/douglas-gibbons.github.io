@@ -20,8 +20,7 @@ The 4 layers of this example neural network are:
 
 There are some great machine learning/deep learning libraries for Python, such as [scikit-learn](http://scikit-learn.org/stable/), [TensorFlow](https://www.tensorflow.org) and [Theano](http://deeplearning.net/software/theano/).  To better illustrate deep learning, we are not going to use these libraries, but instead code the system from scratch. 
 
-The only Python libraries needed are numpy for matrix manipulation, matplotlib for plotting the data, random to initiate the weights, and urllib to pull down the data from a URL:
-
+The only Python libraries needed are __numpy__ for matrix manipulation, __matplotlib__ for plotting the data, __random__ to initiate the weights, and __urllib__ to pull down the data from a URL:
 
 {% highlight python %}
 import numpy as np
