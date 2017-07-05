@@ -9,8 +9,7 @@
 title: Douglas Gibbons
 email: doug@zenly.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website of Douglas Gibbons. Douglas is a systems engineer
-  based in London, England and Palo Alto, California.
+  Personal website of Douglas Gibbons. My opinions are my own, and my mathematics may be wrong.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.douglas-gibbons.com" # the base hostname & protocol for your site
 twitter_username: doug_gibbons
