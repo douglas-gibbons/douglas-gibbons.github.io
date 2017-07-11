@@ -46,7 +46,7 @@ Website content is important to. It's good to have real content ready to go befo
 
 #### Website Software
 
-[Wordpress](https://wordpress.org/) is an old favourite. There's a [hosted solution](https://wordpress.com/) for it, if you don't want to run it yourself.  It is powerful and used by many large companies (such as facebook). Wordpress is written in PHP behind the scenes. Luckily, no coding is required to use the product, because coding in PHP is _exactly_ like trying to eat a bowl full of bees.
+[Wordpress](https://wordpress.org/) is an old favourite. There's a [hosted solution](https://wordpress.com/) for it, if you don't want to run it yourself.  It is powerful and used by many large companies (such as facebook). Wordpress is written in PHP behind the scenes. Luckily, no coding is required to use the product, because coding in PHP is like trying to eat a bowl full of bees; it only makes sense if you have no pain receptors, and even then, it's a questionable act.
 
 A lot of the startups these days use [Wix](https://www.wix.com/) instead, however it's not Open Source. I favour [jekyll](https://jekyllrb.com/). You might even see the similarity between [this jekyll theme](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/) and [my company website](https://trafero.io) if you look hard enough.
 
