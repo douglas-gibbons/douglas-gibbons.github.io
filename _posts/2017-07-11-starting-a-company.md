@@ -13,7 +13,7 @@ Here's what I learned.
 
 ## It Starts With a Name
 
-Naming a company should be easy enough, right?  It turns out that finding the right domain name for your company is actually fiendishly difficult.
+Naming a company should be easy enough, right?  It turns out that finding the right domain name for your company is actually fiendishly difficult, because they _all_ seem to be taken already.
 
 If you don't believe me, [give it a go](https://www.godaddy.com/domains/domain-name-search).
 
