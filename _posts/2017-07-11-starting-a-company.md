@@ -71,6 +71,10 @@ I didn't think I needed a wiki, but now I have it, I use it a lot.  There's so m
 
 There are hosted options for MediaWiki too if you google for them.
 
+## Accounts Packages
+
+I use something called [GnuCash](https://www.gnucash.org/). It does proper double entry accounting, it's Open Source, and, in keeping with many paid-for products, looks like it was last updated in the early 90's.
+
 ## Wrapping it Up
 
 All of the open source software at Trafero is hosted in AWS and installed in Docker containers, using docker compose.
