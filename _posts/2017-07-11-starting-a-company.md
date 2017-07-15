@@ -38,9 +38,9 @@ There are a few Open Source Groupware products out there, and I hope that at lea
 
 ## The Website
 
-Of course you want a website! Who wouldn't? What is the first thing that strikes you, when you see my website?  Probably that you shouldn't ask me for advice on designing one.
+Branding is important, and your website should ooze your brand from every corner of the web browser.
 
-Webites need content. Your users need to know who you are and what you do, so get your story straight first.  Have you done a [Three-Hour Brand Sprint](http://www.brandknewmag.com/the-three-hour-brand-sprint/)? Do you know what your [brand colors](https://www.bigbrandsystem.com/how-to-choose-brand-colors/) are?  Do you even have a [brand font](https://fontlibrary.org/)?  It's good to get these questions right first, otherwise, when it comes to building a website, it somehow just won't _feel_ like you want it to. Without the right questions being asked, you may well waste valuable time trying to get it to feel right by trial and error.
+Have you done a [Three-Hour Brand Sprint](http://www.brandknewmag.com/the-three-hour-brand-sprint/)? Do you know what your [brand colors](https://www.bigbrandsystem.com/how-to-choose-brand-colors/) are?  Do you even have a [brand font](https://fontlibrary.org/)?  It's good to get these questions right first, otherwise, when it comes to building a website, it somehow just won't _feel_ like you want it to. Without the right questions being asked, you may well waste valuable time trying to get it to feel right by trial and error.
 
 Website content is important to. It's good to have real content ready to go before the website design starts.  An empty website looks, well, empty.
 
@@ -52,15 +52,24 @@ A lot of the startups these days use [Wix](https://www.wix.com/) instead, howeve
 
 Jekyll is open source and free, but will probably require you to do some HTML editing, as well as learning [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  The silver lining to this clolud is that you might be able to [host your jekyll site on Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) for free.
 
+
+![png](/assets/website.png)
+
+
 ## Contact Us!
 
 [Mautic](https://www.mautic.org/) belongs to a group of software that you may not have considered, but I love it. It will allow you to create contact forms that you can incorporate right into your website [such as this](https://trafero.io/contact.html), or any other forms, such as surveys or sign-ups. Once you have that data, it can automatically send out email responses. You can also generate email campaigns right from Mautic, using all those email addresses you harvested. There's also a [hosted solution](https://mautic.com/) if you don't want to install it yourself.
 
 Mautic's flexibility is a strength, but its complexity is a weakness. Prepare to spend a few hours getting to grips with it.  It will be a love/hate relationship at first.
 
+![png](/assets/mautic.png)
+
 ## CRM
 
 I still think I need a CRM for all my customers, even though I don't. If you're like me, you might want to try [SuiteCRM](https://suitecrm.com/), which is an offshoot of [SugarCRM](https://www.sugarcrm.com/). SuiteCRM has a slightly more up-to-date user interface (only slightly).  There are hosted options available if you Google hard enough, otherwise there's always the ever popular (and Closed Source) [Salesforce](https://www.salesforce.com/).
+
+![png](/assets/suitecrm.png)
+
 
 ## Wiki
 
@@ -74,6 +83,9 @@ There are hosted options for MediaWiki too if you google for them.
 ## Accounts Packages
 
 I use something called [GnuCash](https://www.gnucash.org/). It does proper double entry accounting, it's Open Source, and, in keeping with many paid-for products, looks like it was last updated in the early 90's.
+
+![png](/assets/gnucash.png)
+
 
 ## Wrapping it Up
 
