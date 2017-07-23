@@ -50,7 +50,7 @@ Website content is important to. It's good to have real content ready to go befo
 
 A lot of the startups these days use [Wix](https://www.wix.com/) instead, however it's not Open Source. I favour [jekyll](https://jekyllrb.com/). You might even see the similarity between [this jekyll theme](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/) and [my company website](https://trafero.io) if you look hard enough.
 
-Jekyll is open source and free, but will probably require you to do some HTML editing, as well as learning [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  The silver lining to this clolud is that you might be able to [host your jekyll site on Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) for free.
+Jekyll is open source and free, but will probably require you to do some HTML editing, as well as learning [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  The silver lining to this cloud is that you might be able to [host your jekyll site on Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) for free.
 
 
 ![png](/assets/website.png)
