@@ -5,7 +5,7 @@ date:   2016-11-27 10:00:00 -0700
 categories: ["Machine Learning"]
 ---
 
-Previously I [reviewed Amazon's Machine Learning platform](http://www.douglas-gibbons.com/machine%20learning/2016/11/26/aws-machine-learning.html) by testing it against the [MNIST Database](http://yann.lecun.com/exdb/mnist/).
+Previously I [reviewed Amazon's Machine Learning platform](http://www.douglas-gibbons.com/machine%20learning/2016/11/20/aws-machine-learning.html) by testing it against the [MNIST Database](http://yann.lecun.com/exdb/mnist/).
 
 Google also offers [machine learning for their cloud platform](https://cloud.google.com/products/machine-learning/). Their [quickstart tutorial](https://cloud.google.com/ml/docs/quickstarts/) focuses on the MNIST dataset like my Amazon review, so it's easy enough to run their code and directly compare the AWS and Google machine learning offerings.
 
